@@ -1,0 +1,18 @@
+.DS_Store
+
+# 私有写作素材与构建产物：不进入发布仓库。
+/handouts/
+/quality/
+/tmp/
+/interactive/
+/高数讲稿_纯文本/
+/数学分析讲义（第一册）*.pdf
+/高等数学 上册*.pdf
+
+# 默认不跟踪 PDF，仅允许已经发布的讲义。
+*.pdf
+!/published/lectures/*.pdf
+
+# Python 本地文件。
+__pycache__/
+*.py[cod]

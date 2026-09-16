@@ -1,0 +1,11 @@
+{
+  "course_id": "calculus-i",
+  "title": "高等数学 I",
+  "total_lectures": 16,
+  "timezone": "Asia/Shanghai",
+  "release_start_date": "2026-09-17",
+  "release_weekday": "Thursday",
+  "release_time": "12:00",
+  "source_pattern": "handouts/pdf/lecture{number:02d}.pdf",
+  "destination_directory": "published/lectures"
+}
