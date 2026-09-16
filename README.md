@@ -49,13 +49,20 @@ python3 tools/release_next.py --audit
 python3 tools/release_next.py --apply
 ```
 
-发布后只需提交脚本列出的文件；自动化任务会在每周四中午执行同一流程。
+自动完成同步、校验、发布、提交与推送：
+
+```bash
+./tools/publish_weekly.sh
+```
+
+Codex 自动化任务会在每周四中午执行这个入口。若当周已经发布，脚本会正常退出且不会产生重复提交。
 
 ## 首次连接远程仓库
 
-```bash
-git remote add origin <你的仓库地址>
-git push -u origin main
+本仓库的远程目标为：
+
+```text
+https://github.com/wangzhz-source/calculus-i-handouts
 ```
 
-远程地址未配置前，自动化只能完成本地发布和校验，不能推送到 GitHub、GitLab 或其他托管平台。
+仓库目前为 Private；发布脚本只向该仓库的 `main` 分支推送。
