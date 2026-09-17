@@ -1,5 +1,14 @@
 {
   "course_id": "calculus-i",
   "total_lectures": 16,
-  "lectures": []
+  "lectures": [
+    {
+      "number": 1,
+      "filename": "lecture01.pdf",
+      "pages": 9,
+      "bytes": 285374,
+      "sha256": "c29e22c982a21c1215b0a3b202765d31d6375da39d85086be5b7ef2931464f4e",
+      "released_at": "2026-09-17T13:45:36+08:00"
+    }
+  ]
 }
