@@ -40,3 +40,5 @@ lecture16.pdf
 ---
 
 希望这些讲义能帮助同学们更好地学习高数。
+
+*May your journey through calculus be rigorous, rewarding, and full of discovery.*
