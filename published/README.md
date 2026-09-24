@@ -5,5 +5,6 @@
 | 讲次 | 文件 | 页数 | 发布时间 |
 | ---: | --- | ---: | --- |
 | 01 | [lecture01.pdf](lectures/lecture01.pdf) | 9 | 2026-09-17T13:45:36+08:00 |
+| 02 | [lecture02.pdf](lectures/lecture02.pdf) | 8 | 2026-09-24T16:51:54+08:00 |
 
 > 本文件由 `tools/release_next.py` 自动维护，请勿手工修改。

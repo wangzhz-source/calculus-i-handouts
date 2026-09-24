@@ -9,6 +9,14 @@
       "bytes": 285374,
       "sha256": "c29e22c982a21c1215b0a3b202765d31d6375da39d85086be5b7ef2931464f4e",
       "released_at": "2026-09-17T13:45:36+08:00"
+    },
+    {
+      "number": 2,
+      "filename": "lecture02.pdf",
+      "pages": 8,
+      "bytes": 249258,
+      "sha256": "ce107534ade766bb1bdb3265c3287e22778ec3ee22d2fbdda269437a2fd767b7",
+      "released_at": "2026-09-24T16:51:54+08:00"
     }
   ]
 }
