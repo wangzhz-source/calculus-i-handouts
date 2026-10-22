@@ -8,5 +8,6 @@
 | 02 | [lecture02.pdf](lectures/lecture02.pdf) | 8 | 2026-09-24T16:51:54+08:00 |
 | 03 | [lecture03.pdf](lectures/lecture03.pdf) | 9 | 2026-10-01T12:02:30+08:00 |
 | 04 | [lecture04.pdf](lectures/lecture04.pdf) | 9 | 2026-10-08T13:52:30+08:00 |
+| 05 | [lecture05.pdf](lectures/lecture05.pdf) | 11 | 2026-10-22T12:56:39+08:00 |
 
 > 本文件由 `tools/release_next.py` 自动维护，请勿手工修改。
