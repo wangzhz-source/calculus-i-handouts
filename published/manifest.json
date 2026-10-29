@@ -41,6 +41,14 @@
       "bytes": 326609,
       "sha256": "440caa314d3ff2eb059cb08cba59badf133531f0fe488be559ddb2e36ae7267a",
       "released_at": "2026-10-22T12:56:39+08:00"
+    },
+    {
+      "number": 6,
+      "filename": "lecture06.pdf",
+      "pages": 10,
+      "bytes": 350795,
+      "sha256": "b2c2fa117b7e5c65210ebec33d1ed20fe4bdf556e61e8057a5cf875011457ad8",
+      "released_at": "2026-10-29T11:56:16+08:00"
     }
   ]
 }
