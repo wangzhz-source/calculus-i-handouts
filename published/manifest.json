@@ -57,6 +57,14 @@
       "bytes": 240516,
       "sha256": "946ba3419a357d52937ced02656aaa4605e8743e495395f29072992e26b5994e",
       "released_at": "2026-11-05T11:56:42+08:00"
+    },
+    {
+      "number": 8,
+      "filename": "lecture08.pdf",
+      "pages": 7,
+      "bytes": 250173,
+      "sha256": "4908c8c0a7dd8bd6e4d3a7e8b6b5eb26d47f2b4176f1fda8076630cbee05e0ba",
+      "released_at": "2026-11-12T12:07:11+08:00"
     }
   ]
 }
